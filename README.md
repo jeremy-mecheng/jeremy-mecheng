@@ -5,7 +5,7 @@
 - 🔭 I'm working on personal projects in computational fluid dynamics and turbulent flow simulation.  
 - 🌱 Currently learning numerical methods, turbulence modeling, and scientific computing with Python and C++.  
 - 🤝 I aim to contribute to open-source CFD research and collaborate on projects in fluid mechanics, and complex fluids and flows simulations.
-  - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jeremy-guam%C3%A1n-b85ba72b2/) | jeremyguamanyaselga[at]gmail.com
+  - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jeremy-guam%C3%A1n-b85ba72b2/) | jeremyguamanyaselga@gmail.com
 
 
 <!--
